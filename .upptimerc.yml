@@ -25,5 +25,5 @@ status-website:
       href: /
     - title: crossid.io
       href: https://crossid.io
-  i18n:
-    footer: Status page [crossid.io](https://crossid.io)
+i18n:
+  footer: Status page [crossid.io](https://crossid.io)
