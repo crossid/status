@@ -58,9 +58,9 @@
     "url": "https://crossid.io",
     "icon": "https://icons.duckduckgo.com/ip3/crossid.io.ico",
     "slug": "crossid-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 298,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   }
 ]
