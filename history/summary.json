@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 236,
-    "timeWeek": 124,
-    "timeMonth": 128,
-    "timeYear": 111,
+    "time": 114,
+    "timeDay": 253,
+    "timeWeek": 142,
+    "timeMonth": 132,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 226,
-    "timeWeek": 163,
-    "timeMonth": 134,
+    "timeDay": 136,
+    "timeWeek": 165,
+    "timeMonth": 135,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crossid.us.dev.crossid.io.ico",
     "slug": "us-development-cluster",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 73,
+    "timeDay": 139,
     "timeWeek": 100,
-    "timeMonth": 126,
+    "timeMonth": 127,
     "timeYear": 117,
-    "dailyMinutesDown": {
-      "2023-04-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crossid.io",
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 308,
-    "timeDay": 526,
-    "timeWeek": 388,
-    "timeMonth": 325,
+    "timeDay": 316,
+    "timeWeek": 384,
+    "timeMonth": 328,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2023-03-26": 15
