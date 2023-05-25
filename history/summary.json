@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 138,
-    "timeWeek": 141,
+    "time": 119,
+    "timeDay": 82,
+    "timeWeek": 134,
     "timeMonth": 140,
-    "timeYear": 120,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crossid.us.preview.crossid.io.ico",
     "slug": "us-preview-cluster",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.82%",
+    "uptimeDay": "5.82%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "98.82%",
     "time": 125,
-    "timeDay": 131,
-    "timeWeek": 159,
-    "timeMonth": 142,
+    "timeDay": 0,
+    "timeWeek": 160,
+    "timeMonth": 139,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-05-24": 0
+      "2023-05-25": 30,
+      "2023-05-24": 1326
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 148,
-    "timeWeek": 111,
-    "timeMonth": 119,
-    "timeYear": 118,
+    "time": 117,
+    "timeDay": 72,
+    "timeWeek": 104,
+    "timeMonth": 113,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 338,
-    "timeWeek": 354,
-    "timeMonth": 354,
-    "timeYear": 317,
+    "time": 315,
+    "timeDay": 143,
+    "timeWeek": 330,
+    "timeMonth": 342,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2023-03-26": 15
     }
