@@ -1,7 +1,7 @@
 url: https://crossid.us.crossid.io/api/cluster/v1/health/ready
 status: up
 code: 200
-responseTime: 179
-lastUpdated: 2024-01-12T23:17:09.560Z
+responseTime: 73
+lastUpdated: 2024-01-13T23:18:48.956Z
 startTime: 2023-03-06T00:44:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
